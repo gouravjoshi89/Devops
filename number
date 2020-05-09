@@ -1,0 +1,7 @@
+#!/bin/bash
+#no of files in the current directory
+#command
+
+echo "number of files in the directory"
+ls -l | wc -l
+

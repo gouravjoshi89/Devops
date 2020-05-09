@@ -1,0 +1,4 @@
+# for fruit  in " mango banan str"
+> do
+> echo "i want $fruit"
+> done

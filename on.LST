@@ -1,0 +1,8 @@
+SQL> select * from employees;
+select * from employees
+              *
+ERROR at line 1:
+ORA-00942: table or view does not exist 
+
+
+SQL> exit

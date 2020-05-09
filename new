@@ -1,0 +1,4 @@
+
+#!/bin/bash
+# no of users logged in
+user | wc -w

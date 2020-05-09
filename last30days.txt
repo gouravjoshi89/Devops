@@ -1,0 +1,11 @@
+-rw-r--r-- 1 Joshi None 12288 Sep 24 23:30 ./.aa.sh.swm
+-rw-r--r-- 1 Joshi None 12288 Sep 24 23:29 ./.aa.sh.swn
+-rw-r--r-- 1 Joshi None 4096 Sep 25 00:05 ./.aa.sh.swo
+-rw-r--r-- 1 Joshi None 12288 Sep 25 00:05 ./.aa.sh.swp
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:11 ./a.windows
+-rw-r--r-- 1 Joshi None 197 Oct  7 18:27 ./aa.sh
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:10 ./bill.gates
+-rw-r--r-- 1 Joshi None 55 Oct  8 14:46 ./duplicate
+-rw-r--r-- 1 Joshi None 427 Oct  8 17:31 ./last30days.txt
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:10 ./linux
+-rw-r--r-- 1 Joshi None 0 Oct  8 14:20 ./Sed_File

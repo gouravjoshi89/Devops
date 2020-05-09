@@ -1,0 +1,10 @@
+#!/bin/bash
+# addition of 2 number
+echo "enter number :"
+read  a
+echo "enter another number : "
+read b
+echo "sum of 2 number is : " $[a+b] 
+echo "sub of 2 number is : " $[a-b] 
+echo "divide of 2 number is : " $[a/b] 
+ 

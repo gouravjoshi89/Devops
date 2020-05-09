@@ -1,0 +1,6 @@
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:46 ./1hour.txt
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:11 ./a.windows
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:10 ./bill.gates
+-rw-r--r-- 1 Joshi None 154 Oct  8 17:46 ./hour.txt
+-rw-r--r-- 1 Joshi None 582 Oct  8 17:31 ./last30days.txt
+-rw-r--r-- 1 Joshi None 0 Oct  8 17:10 ./linux

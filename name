@@ -1,0 +1,5 @@
+#!/bin/bash
+#input name
+echo "enter name"
+read name
+echo "your name :$name" 
